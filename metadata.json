@@ -1,0 +1,7 @@
+{
+  "name": "SISWA JUWARA SPANSIX",
+  "description": "Sistem WA Autorespon, Jurnal Digital dan Absensi Siswa untuk membentuk siswa berkarakter (Supabase Version)",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
